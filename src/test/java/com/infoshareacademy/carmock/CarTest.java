@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-import static org.junit.jupiter.api.Assertions.*;
-
-class CarTest {
-
-=======
 package com.infoshareacademy.carmock;
 
 import org.junit.jupiter.api.BeforeEach;
@@ -44,5 +38,4 @@ class CarTest {
         //THEN
         assertEquals(expectedName, result);
     }
->>>>>>> 634c4f8c132056062e60fcbbcf28dfe123cf9d18
 }
