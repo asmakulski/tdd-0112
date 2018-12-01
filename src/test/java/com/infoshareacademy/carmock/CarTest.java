@@ -1,5 +1,7 @@
-package com.infoshareacademy.carmock;
+package com.infoshareacademy.carmock.carmock;
 
+import com.infoshareacademy.carmock.Car;
+import com.infoshareacademy.carmock.Type;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.runner.RunWith;
